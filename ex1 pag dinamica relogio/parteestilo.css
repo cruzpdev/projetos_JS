@@ -1,0 +1,27 @@
+body {
+    background: rgb(0, 83, 128);
+    font: normal 15pt arial;
+}
+header {
+    color:aliceblue;
+    text-align: center;
+
+}
+section {
+    background: white;
+    border-radius: 30px; /* arredonda a borda da section */
+    padding: 20px; /*distancia a borda do texto */
+    width: 400px; /*largura da section*/
+    margin: auto; /*move a section pela pagina. pra facilitar use AUTO*/
+    box-shadow: 10px 10px 10px rgba(114, 5, 47, 0.507); /*sombra na section*/
+}
+div{
+    text-align: center;
+}
+footer {
+    color:aliceblue;
+    text-align: center;
+    font-style: italic;
+
+
+}
